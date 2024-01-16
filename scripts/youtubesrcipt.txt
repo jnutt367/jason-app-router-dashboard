@@ -1,0 +1,18 @@
+Channel Intro Script:
+
+[Soft Background Music]
+
+[Opening Scene: Visuals of code editor, Next.js logo, and your channel branding]
+
+[Your Channel Name]: Jason Nutt Christian Digital Nomad
+
+Hey, digital nomads and coding enthusiasts, welcome back to [Your Channel Name], the go-to destination for all things tech and travel. I'm Jason Nutt, your guide on this digital journey.
+
+Today, we're diving into the fascinating world of Next.js. Whether you're a seasoned developer or just starting, this walkthrough is tailored just for you. I'll be breaking down the Next.js documentation, step by step, to help you master this powerful React framework.
+
+But before we jump into the coding adventure, make sure to hit that subscribe button and ring the notification bell. That way, you won't miss any of our future tutorials and travel vlogs as we explore the world while writing code.
+
+Alright, fellow digital nomads, let's embark on this coding odyssey together. Don't forget to like, comment, and share if you find value in our content. Now, grab your laptops, and let's start coding with Next.js!
+
+[Closing Scene: Encourage viewers to engage in the comments and follow your social media]
+
